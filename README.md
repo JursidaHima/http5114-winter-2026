@@ -1,5 +1,5 @@
 # Course Content
-
+[Adam Thomas](https://codeadam.ca/)
 ---
 
 ## Module 1 – Course Introduction
