@@ -137,5 +137,3 @@
 - Help with assignments
 - Course content review
 
-### Assignment
-- Stack Overflow
